@@ -1,6 +1,6 @@
 # Working with large files
 
-SharePoint [supports up to 100GB files](https://docs.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits#file-size-and-file-path-length) and uploading and downloading those requires some additional steps.
+SharePoint [supports up to 250GB files](https://docs.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits#file-size-and-file-path-length) and uploading and downloading those requires some additional steps.
 
 ## Uploading large files
 
